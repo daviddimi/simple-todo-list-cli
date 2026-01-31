@@ -14,11 +14,9 @@ State Management: (Optional: Mention if you used a List or File I/O to track tas
 💻 How to Run It
 To get a local copy up and running, follow these simple steps:
 
-1. Clone the repo
-git clone https://github.com/daviddimi/simple-todo-list-cli.git
+1. Clone the repo: git clone https://github.com/daviddimi/simple-todo-list-cli.git
 2. Open the project Open the .sln file in Visual Studio or navigate to the folder in your terminal.
-3. Run the app
-dotnet run
+3. Run the app: dotnet run
 
 📈 Future Enhancements
 Add data persistence (saving tasks to a .txt or .json file).
