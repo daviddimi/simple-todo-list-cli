@@ -80,10 +80,6 @@ Simple To-Do List CLI lets a user create, view, update, and delete tasks from a 
 
 
 
-## License
-
-Distributed under the Apache License 2.0. See `LICENSE` for more information.
-
 ## Author
 
 # David Dimitriev — Software Engineering student
